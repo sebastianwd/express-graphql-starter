@@ -1,4 +1,8 @@
 import 'dotenv/config'
+//  https://stackoverflow.com/a/54490329
+import 'core-js/stable'
+import 'regenerator-runtime/runtime'
+//  -----
 import express from 'express'
 import bodyparser from 'body-parser'
 import cors from 'cors'
