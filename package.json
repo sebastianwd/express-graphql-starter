@@ -1,5 +1,5 @@
 {
-  "name": "create-graphql-server",
+  "name": "express-graphql-starter",
   "version": "0.1.0",
   "description": "",
   "main": "app.js",
